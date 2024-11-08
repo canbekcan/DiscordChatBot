@@ -9,6 +9,16 @@ Node.js -> [Node.js](http://nodejs.org)
 npm install discord.js openai dotenv
 npm init -y
 
+## Environment
+You need to create .env and following codes for API
+
+TOKEN =
+
+OPENAI_API_KEY = 
+
+CHANNEL_ID = 
+
+
 ## Run on Terminal from package.json
 **It needs to be defined like**
 
